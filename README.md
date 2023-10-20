@@ -1,4 +1,3 @@
-![logo](codernaa.jpg)
 <h1 align="center">Hi 👋, I'm Ayushman</h1>
 <h3 align="center">"Turning Code into Solutions | Backend Developer Extraordinaire"</h3>
 <img align="right" alt="coding"  width="400" src="https://assets.entrepreneur.com/content/3x2/2000/20160628101609-Coding.jpeg">
