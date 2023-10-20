@@ -1,6 +1,7 @@
+![logo]()
 <h1 align="center">Hi 👋, I'm Ayushman</h1>
 <h3 align="center">"Turning Code into Solutions | Backend Developer Extraordinaire"</h3>
-
+<!-- <img align="right" alt="coding"  width="400" src="https://images.unsplash.com/photo-1589561253898-768105ca91a8?auto=format&fit=crop&q=80&w=1169&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushman542&label=Profile%20views&color=0e75b6&style=flat" alt="ayushman542" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushman542" alt="ayushman542" /></a> </p>
