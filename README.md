@@ -1,7 +1,7 @@
 ![logo](codernaa.jpg)
 <h1 align="center">Hi 👋, I'm Ayushman</h1>
 <h3 align="center">"Turning Code into Solutions | Backend Developer Extraordinaire"</h3>
-<img align="right" alt="coding"  width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.entrepreneur.com%2Fen-in%2Ftechnology%2Fwant-to-code-find-out-what-it-takes-to-get-hired-by%2F282826&psig=AOvVaw1ClDD8D0ul97FtKWPf-utM&ust=1697914745915000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjUtre0hoIDFQAAAAAdAAAAABAp">
+<img align="right" alt="coding"  width="400" src="https://assets.entrepreneur.com/content/3x2/2000/20160628101609-Coding.jpeg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushman542&label=Profile%20views&color=0e75b6&style=flat" alt="ayushman542" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushman542" alt="ayushman542" /></a> </p>
