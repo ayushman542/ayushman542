@@ -6,12 +6,12 @@ function main() {
     const name = 'Ayushman Medcalia';
     const acknowledgements = 'Software Engineer';
     const location = 'Jammu And Kashmir';
-    const company = 'Behind every 100 lines of failed code lies a story of determination, learning, and growth.';
+    const reality = 'Behind every 100 lines of failed code lies a story of determination, learning, and growth.';
 
     console.log(`Name: ${name}`);
     console.log(`Acknowledgements: ${acknowledgements}`);
     console.log(`Location: ${location}`);
-    console.log(`Company: ${company}`);
+    console.log(`reality: ${reality}`);
 }
 
 main();
