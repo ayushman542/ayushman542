@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayushman</h1>
+[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
 <h3 align="center">"Turning Code into Solutions | Backend Developer Extraordinaire"</h3>
 
 ```javascript
