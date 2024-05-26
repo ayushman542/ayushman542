@@ -1,7 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhanupriya-art&label=Profile%20views&color=0e75b6&style=flat" alt="ayushman542" />  &nbsp; <h1 align="center">Hi 👋, I'm Ayushman</h1>
 
 <h3 align="center">"Turning Code into Solutions | Backend Developer Extraordinaire"</h3>
-![Uploading WhatsApp Image 2024-05-27 at 03.47.33_addae66e.jpg…]()
+
+<img align="right" width="300" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
 
 ```javascript
 function main() {
