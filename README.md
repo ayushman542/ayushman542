@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayushman</h1>
-![](https://hit.yhype.me/github/profile?user_id=1849174)
+<br>
+![](https://komarev.com/ghpvc/?username=bhanupriya-art&color=blue)<br>
+<br>
 <h3 align="center">"Turning Code into Solutions | Backend Developer Extraordinaire"</h3>
 
 ```javascript
