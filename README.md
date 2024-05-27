@@ -2,8 +2,6 @@
 
 <h3 align="center">"Turning Code into Solutions | Backend Developer Extraordinaire"</h3>
 
-<img align="right" width="300" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
-
 ```javascript
 function main() {
     const name = 'Ayushman Medcalia';
