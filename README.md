@@ -1,6 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhanupriya-art&label=Profile%20views&color=0e75b6&style=flat" alt="ayushman542" />  &nbsp; <h1 align="center">Hi 👋, I'm Ayushman</h1>
 
-<h3 align="center">"Turning Code into Solutions | Backend Developer Extraordinair"</h3>
 <h3 align="center">"One Line of Code Can Change your Life "</h3>
 
 ```javascript
